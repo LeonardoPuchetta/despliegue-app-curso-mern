@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2ac78d81ab58a037cf7449ec0959883",
+    "revision": "6a9b4a20a6de197abdedc5ff090a673d",
     "url": "/despliegue-app-curso-mern/index.html"
   },
   {
