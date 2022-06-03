@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd044f1fd4aa4ab43ecb2cc2e355382d",
+    "revision": "f2ac78d81ab58a037cf7449ec0959883",
     "url": "/despliegue-app-curso-mern/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/despliegue-app-curso-mern/static/css/2.220ccb42.chunk.css"
   },
   {
-    "revision": "92be10bf1026b829203d",
+    "revision": "fd1549554db212be7ab7",
     "url": "/despliegue-app-curso-mern/static/css/main.c194f5bf.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/despliegue-app-curso-mern/static/js/2.18a4c505.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92be10bf1026b829203d",
-    "url": "/despliegue-app-curso-mern/static/js/main.95af60f3.chunk.js"
+    "revision": "fd1549554db212be7ab7",
+    "url": "/despliegue-app-curso-mern/static/js/main.8974a803.chunk.js"
   },
   {
     "revision": "cd9698f346b28fd53c2d",
