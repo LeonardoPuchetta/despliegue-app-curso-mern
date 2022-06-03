@@ -19,7 +19,7 @@ function App() {
 
   return (
     <AuthProvider>
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
        
        {routes.map((route,index ) => (  // recorremos routes con la funcion RouteWithSubRoutes
