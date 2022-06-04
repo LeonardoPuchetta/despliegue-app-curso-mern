@@ -23,7 +23,7 @@
     "sass": "^1.34.0"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy":"yarn build",
     "deploy" :"gh-pages -d build",
     "dev": "react-scripts start",
     "build": "react-scripts build",
